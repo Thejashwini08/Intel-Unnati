@@ -1,2 +1,2 @@
 # Intel-Unnati
-I will be posting our team's Sentiment Analysis project on Intel products - Intel Unnati
+We have performed sentiment analysis on Intel core procesor's online Reviews.
